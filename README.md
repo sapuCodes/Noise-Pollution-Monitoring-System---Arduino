@@ -12,7 +12,8 @@
         <p>This is a project for Realtime detect and showcase Noise Pollution on a Monitoring System using Arduino.</p>
     </header>
     <section>
-      <img src="img/ss.jpg" alt="A descriptive alt text">
+      <img src="img/ss.jpg" alt="ss">
+        <img src="img/ss1.jpg" alt="ss">
     </section>
 </body>
 </html>
