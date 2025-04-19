@@ -1,2 +1,18 @@
-# Noise Pollution Monitoring System - Arduino
- Realtime detect and showcase Noise Pollution Monitoring System using Arduino
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <h1># Noise Pollution Monitoring System - Arduino</h1>
+        <p>This is a project for Realtime detect and showcase Noise Pollution on a Monitoring System using Arduino.</p>
+    </header>
+    <section>
+      <img src="img/ss.jpg" alt="A descriptive alt text">
+    </section>
+</body>
+</html>
