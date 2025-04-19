@@ -15,6 +15,7 @@
       <img src="img/ss.jpg" alt="ss">
         <img src="img/ss2.jpg" alt="ss">
         <img src="img/ss1.jpg" alt="ss">
+        <img src="img/ss3.jpg" alt="ss">
     </section>
 </body>
 </html>
